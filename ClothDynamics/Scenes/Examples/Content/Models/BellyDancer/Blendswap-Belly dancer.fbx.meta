@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: d7a66430199a7204588df43566954b4e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -1823174614346520228
+    second: Skirt|RockAction
+  - first:
+      74: -8676802720610898913
+    second: EMILY-SKELETT|RockAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'EMILY-Daumen.L.001' is
+      not an ancestor of 'EMILY-Kleinfinger.L.001'\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: EMILY-Becken
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Oberschenkel.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Oberschenkel.R.001
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Schienbein.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Schienbein.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Fuss.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Fuss.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Bauch
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Zwergfell
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Hals_oben
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kopf
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Schulter.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Schulter.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Oberarm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Oberarm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Unterarm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Unterarm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.L.000
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.R.000
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kinn
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Zunge_1
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.L.001
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.L.002
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.L.003
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Brust
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.R.001
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.R.002
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EMILY-Kleinfinger.R.003
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Blendswap-Belly dancer(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Belt
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Body
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Buckle
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: EMILY-SKELETT
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: EMILY-Becken
+      parentName: EMILY-SKELETT
+      position: {x: -0, y: 0, z: 0.010584841}
+      rotation: {x: 0.7071068, y: -0.00000014611096, z: -0.00000014611095, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Bauch
+      parentName: EMILY-Becken
+      position: {x: -0, y: 0.00052875996, z: 0}
+      rotation: {x: -0.042519964, y: 0.00000011910147, z: 0.000000005068775, w: 0.9990956}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: EMILY-Zwergfell
+      parentName: EMILY-Bauch
+      position: {x: -9.342435e-18, y: 0.00087090104, z: 1.3969836e-11}
+      rotation: {x: -0.14654239, y: 1.0763153e-14, z: 4.265545e-15, w: 0.9892044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Brust
+      parentName: EMILY-Zwergfell
+      position: {x: -8.881784e-18, y: 0.00096307916, z: 1.490116e-10}
+      rotation: {x: 0.13178203, y: -0.00000011816967, z: -0.000000015709652, w: 0.9912787}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: EMILY-Hals_unten
+      parentName: EMILY-Brust
+      position: {x: -2.6645352e-17, y: 0.0012323955, z: -3.7252944e-11}
+      rotation: {x: 0.16511549, y: 2.9000616e-14, z: -0.000000039366615, w: 0.98627424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Hals_oben
+      parentName: EMILY-Hals_unten
+      position: {x: 3.9968027e-17, y: 0.00081279955, z: 2.6077027e-10}
+      rotation: {x: 0.0000000020954294, y: 0.9988681, z: 0.04756618, w: -0.00000019482805}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: EMILY-Kopf
+      parentName: EMILY-Hals_oben
+      position: {x: 1.5709655e-16, y: 0.00065733254, z: -3.5390257e-10}
+      rotation: {x: 0.14790116, y: 0.0000010610847, z: 0.00000018101318, w: 0.98900217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Kinn
+      parentName: EMILY-Kopf
+      position: {x: 4.8362897e-10, y: 0.00032905294, z: -0.00020842042}
+      rotation: {x: 0.89874446, y: -0.00000015681081, z: 0.0000023856185, w: -0.43847284}
+      scale: {x: 1, y: 0.99999994, z: 0.99999976}
+    - name: EMILY-Zunge_1
+      parentName: EMILY-Kopf
+      position: {x: 7.1582207e-10, y: 0.000108507404, z: -0.00030501414}
+      rotation: {x: -0.76719904, y: 0.0000012318814, z: -0.0000032337534, w: 0.6414091}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Zunge_2
+      parentName: EMILY-Zunge_1
+      position: {x: -5.7731597e-15, y: 0.0002517071, z: -2.2351693e-10}
+      rotation: {x: 0.01654599, y: -0.0000030050107, z: 0.000000052121127, w: 0.99986315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Zunge_3
+      parentName: EMILY-Zunge_2
+      position: {x: 1.3322676e-16, y: 0.00021846808, z: -3.7252885e-11}
+      rotation: {x: 0.011558394, y: -0.0000008344191, z: -0.000000008419508, w: 0.99993324}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: EMILY-Zunge_4
+      parentName: EMILY-Zunge_3
+      position: {x: 1.4011014e-15, y: 0.00013785332, z: 5.5879145e-11}
+      rotation: {x: -0.06649644, y: 0.00000059473706, z: 0.000000064292095, w: 0.9977867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EYE_L
+      parentName: EMILY-Kopf
+      position: {x: 9.880079e-10, y: -0.015514899, z: -0.00043017344}
+      rotation: {x: -0.0000007252062, y: 0.70173013, z: 0.7124429, w: 0.0000007756558}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: EYE_R
+      parentName: EMILY-Kopf
+      position: {x: 9.880079e-10, y: -0.015514899, z: -0.00043017344}
+      rotation: {x: -0.0000007252062, y: 0.70173013, z: 0.7124429, w: 0.0000007756558}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: FleshTop
+      parentName: EMILY-Kopf
+      position: {x: 9.880079e-10, y: -0.015514899, z: -0.00043017344}
+      rotation: {x: -0.0000007252062, y: 0.70173013, z: 0.7124429, w: 0.0000007756558}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Scalp
+      parentName: EMILY-Kopf
+      position: {x: 9.880079e-10, y: -0.015514899, z: -0.00043017344}
+      rotation: {x: -0.0000007252062, y: 0.70173013, z: 0.7124429, w: 0.0000007756558}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: TeethTop
+      parentName: EMILY-Kopf
+      position: {x: 9.880079e-10, y: -0.015514899, z: -0.00043017344}
+      rotation: {x: -0.0000007252062, y: 0.70173013, z: 0.7124429, w: 0.0000007756558}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: EMILY-Schulter.L
+      parentName: EMILY-Brust
+      position: {x: -2.6645352e-17, y: 0.0012323955, z: -3.7252944e-11}
+      rotation: {x: -0.47068763, y: 0.4702565, z: 0.52807105, w: 0.5276864}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: EMILY-Oberarm.L
+      parentName: EMILY-Schulter.L
+      position: {x: -4.299739e-11, y: 0.0016615125, z: 1.10249886e-10}
+      rotation: {x: 0.008855919, y: -0.00020499804, z: 0.02251392, w: 0.99970734}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: EMILY-Unterarm.L
+      parentName: EMILY-Oberarm.L
+      position: {x: 1.9790605e-11, y: 0.0023907681, z: 5.045848e-10}
+      rotation: {x: 0.009165598, y: -0.012555774, z: 0.0077215084, w: 0.9998494}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: EMILY-Daumen.L.000
+      parentName: EMILY-Unterarm.L
+      position: {x: 2.4214386e-10, y: 0.0024191795, z: 2.392335e-10}
+      rotation: {x: -0.16774017, y: 0.015065991, z: 0.27505344, w: 0.9465632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Daumen.L.001
+      parentName: EMILY-Daumen.L.000
+      position: {x: -1.4901161e-10, y: 0.00069366803, z: -2.9802322e-10}
+      rotation: {x: -0.004954017, y: 0.026714059, z: -0.09734222, w: 0.9948801}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: EMILY-Daumen.L.002
+      parentName: EMILY-Daumen.L.001
+      position: {x: 3.352761e-10, y: 0.00024815017, z: 6.0535965e-10}
+      rotation: {x: -0.008382203, y: 0.0049618855, z: -0.05890782, w: 0.9982159}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: EMILY-Kleinfinger.L.000
+      parentName: EMILY-Unterarm.L
+      position: {x: 2.4214386e-10, y: 0.0024191795, z: 2.392335e-10}
+      rotation: {x: -0.061653364, y: -0.0086730225, z: -0.29269427, w: 0.95417696}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: EMILY-Kleinfinger.L.001
+      parentName: EMILY-Kleinfinger.L.000
+      position: {x: -2.0012983e-10, y: 0.00083399995, z: -3.6365236e-10}
+      rotation: {x: 0.005115441, y: 0.0036566756, z: 0.061818834, w: 0.99806756}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: EMILY-Kleinfinger.L.002
+      parentName: EMILY-Kleinfinger.L.001
+      position: {x: 1.1874193e-10, y: 0.00027243892, z: -0.0000000011780503}
+      rotation: {x: -0.03523943, y: 0.004666453, z: 0.022035083, w: 0.99912506}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    - name: EMILY-Kleinfinger.L.003
+      parentName: EMILY-Kleinfinger.L.002
+      position: {x: -1.2107193e-10, y: 0.00015630254, z: -2.2846507e-10}
+      rotation: {x: -0.0122195445, y: -0.0044803256, z: 0.024950529, w: 0.999604}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: EMILY-Mittelfinger.L.000
+      parentName: EMILY-Unterarm.L
+      position: {x: 2.4214386e-10, y: 0.0024191795, z: 2.392335e-10}
+      rotation: {x: -0.013103423, y: 0.010940172, z: -0.08934726, w: 0.99585426}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: EMILY-Mittelfinger.L.001
+      parentName: EMILY-Mittelfinger.L.000
+      position: {x: -2.9745637e-11, y: 0.00092151633, z: -5.861511e-10}
+      rotation: {x: -0.048569873, y: -0.00093489885, z: -0.009584007, w: 0.9987734}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: EMILY-Mittelfinger.L.002
+      parentName: EMILY-Mittelfinger.L.001
+      position: {x: -7.1318236e-11, y: 0.00030843093, z: -7.748895e-10}
+      rotation: {x: -0.02670608, y: -0.00025103078, z: -0.011436667, w: 0.9995779}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Mittelfinger.L.003
+      parentName: EMILY-Mittelfinger.L.002
+      position: {x: -7.277912e-12, y: 0.00031844893, z: 0.0000000019440995}
+      rotation: {x: -0.012964818, y: 0.00006368249, z: -0.0035940942, w: 0.9999095}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: EMILY-Ringfinger.L.000
+      parentName: EMILY-Unterarm.L
+      position: {x: 2.4214386e-10, y: 0.0024191795, z: 2.392335e-10}
+      rotation: {x: -0.03401105, y: -0.0006514947, z: -0.18263727, w: 0.98259175}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: EMILY-Ringfinger.L.001
+      parentName: EMILY-Ringfinger.L.000
+      position: {x: 1.1760725e-11, y: 0.00087256124, z: -4.954927e-10}
+      rotation: {x: -0.021957599, y: 0.00032802724, z: 0.0038126651, w: 0.99975157}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: EMILY-Ringfinger.L.002
+      parentName: EMILY-Ringfinger.L.001
+      position: {x: -4.1337885e-11, y: 0.00032680368, z: 0.0000000012406962}
+      rotation: {x: -0.027048282, y: 0.0010210802, z: 0.02773316, w: 0.99924886}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: EMILY-Ringfinger.L.003
+      parentName: EMILY-Ringfinger.L.002
+      position: {x: -1.19371535e-11, y: 0.00026754916, z: 6.145842e-10}
+      rotation: {x: 0.03172791, y: -0.00072114606, z: -0.017375588, w: 0.99934524}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: EMILY-Zeigefinger.L.000
+      parentName: EMILY-Unterarm.L
+      position: {x: 2.4214386e-10, y: 0.0024191795, z: 2.392335e-10}
+      rotation: {x: -0.03032231, y: 0.030053727, z: 0.036310017, w: 0.9984282}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: EMILY-Zeigefinger.L.001
+      parentName: EMILY-Zeigefinger.L.000
+      position: {x: -2.2351741e-10, y: 0.0009561181, z: 2.2817402e-10}
+      rotation: {x: -0.0140671665, y: -0.012707984, z: -0.13940762, w: 0.9900536}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: EMILY-Zeigefinger.L.002
+      parentName: EMILY-Zeigefinger.L.001
+      position: {x: -6.425271e-11, y: 0.00026621032, z: -2.2089806e-10}
+      rotation: {x: -0.038337678, y: 0.00039710157, z: 0.010349903, w: 0.9992112}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Zeigefinger.L.003
+      parentName: EMILY-Zeigefinger.L.002
+      position: {x: 1.3552176e-10, y: 0.0002439404, z: 9.219187e-12}
+      rotation: {x: -0.034032222, y: 0.0008688848, z: -0.025509397, w: 0.9990948}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Schulter.R
+      parentName: EMILY-Brust
+      position: {x: -2.6645352e-17, y: 0.0012323955, z: -3.7252944e-11}
+      rotation: {x: -0.47068775, y: -0.47025645, z: -0.52807087, w: 0.5276866}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: EMILY-Oberarm.R
+      parentName: EMILY-Schulter.R
+      position: {x: 3.143409e-11, y: 0.0016615127, z: 1.0611746e-10}
+      rotation: {x: 0.008855919, y: 0.00020499433, z: -0.022513919, w: 0.99970734}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: EMILY-Unterarm.R
+      parentName: EMILY-Oberarm.R
+      position: {x: -1.6298145e-11, y: 0.0023907677, z: 5.073019e-10}
+      rotation: {x: 0.009165757, y: 0.012555979, z: -0.007721095, w: 0.99984944}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: EMILY-Daumen.R.000
+      parentName: EMILY-Unterarm.R
+      position: {x: -1.3038516e-10, y: 0.0024191795, z: -0.000000001042008}
+      rotation: {x: -0.16774017, y: -0.015065994, z: -0.27505347, w: 0.9465632}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: EMILY-Daumen.R.001
+      parentName: EMILY-Daumen.R.000
+      position: {x: -2.4214386e-10, y: 0.00069366844, z: 9.0338287e-10}
+      rotation: {x: -0.004954017, y: -0.026714059, z: 0.09734222, w: 0.9948801}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: EMILY-Daumen.R.002
+      parentName: EMILY-Daumen.R.001
+      position: {x: -1.862645e-10, y: 0.00024815023, z: -6.426126e-10}
+      rotation: {x: -0.008382207, y: -0.0049618855, z: 0.058907833, w: 0.9982159}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: EMILY-Kleinfinger.R.000
+      parentName: EMILY-Unterarm.R
+      position: {x: -1.3038516e-10, y: 0.0024191795, z: -0.000000001042008}
+      rotation: {x: -0.06165337, y: 0.008673023, z: 0.29269427, w: 0.95417696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Kleinfinger.R.001
+      parentName: EMILY-Kleinfinger.R.000
+      position: {x: -7.08944e-12, y: 0.00083400024, z: 8.3069607e-10}
+      rotation: {x: 0.005115442, y: -0.0036566753, z: -0.061818838, w: 0.99806756}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: EMILY-Kleinfinger.R.002
+      parentName: EMILY-Kleinfinger.R.001
+      position: {x: -1.6530806e-10, y: 0.00027243907, z: -3.0267983e-11}
+      rotation: {x: -0.03523943, y: -0.0046664523, z: -0.022035083, w: 0.99912506}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: EMILY-Kleinfinger.R.003
+      parentName: EMILY-Kleinfinger.R.002
+      position: {x: 1.5832484e-10, y: 0.0001563026, z: -0.0000000014225952}
+      rotation: {x: -0.012219545, y: 0.0044803247, z: -0.024950532, w: 0.999604}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: EMILY-Mittelfinger.R.000
+      parentName: EMILY-Unterarm.R
+      position: {x: -1.3038516e-10, y: 0.0024191795, z: -0.000000001042008}
+      rotation: {x: -0.0131034255, y: -0.010940172, z: 0.08934727, w: 0.99585426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Mittelfinger.R.001
+      parentName: EMILY-Mittelfinger.R.000
+      position: {x: 2.9745647e-11, y: 0.0009215167, z: -0.0000000016856938}
+      rotation: {x: -0.048569873, y: 0.00093489763, z: 0.009584011, w: 0.9987734}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: EMILY-Mittelfinger.R.002
+      parentName: EMILY-Mittelfinger.R.001
+      position: {x: -6.233378e-12, y: 0.00030843008, z: -7.926428e-10}
+      rotation: {x: -0.02670608, y: 0.00025103072, z: 0.011436664, w: 0.9995779}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Mittelfinger.R.003
+      parentName: EMILY-Mittelfinger.R.002
+      position: {x: -1.1832739e-11, y: 0.00031844864, z: 7.5358003e-10}
+      rotation: {x: -0.012964817, y: -0.000063682506, z: 0.0035940942, w: 0.9999095}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: EMILY-Ringfinger.R.000
+      parentName: EMILY-Unterarm.R
+      position: {x: -1.3038516e-10, y: 0.0024191795, z: -0.000000001042008}
+      rotation: {x: -0.03401105, y: 0.0006514943, z: 0.18263726, w: 0.98259175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Ringfinger.R.001
+      parentName: EMILY-Ringfinger.R.000
+      position: {x: -3.673527e-11, y: 0.0008725605, z: -4.8166837e-10}
+      rotation: {x: -0.021957595, y: -0.0003280271, z: -0.0038126684, w: 0.99975157}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: EMILY-Ringfinger.R.002
+      parentName: EMILY-Ringfinger.R.001
+      position: {x: 6.800206e-11, y: 0.00032680374, z: 0.0000000012485543}
+      rotation: {x: -0.027048279, y: -0.00102108, z: -0.02773315, w: 0.99924886}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+    - name: EMILY-Ringfinger.R.003
+      parentName: EMILY-Ringfinger.R.002
+      position: {x: 3.70485e-12, y: 0.0002675492, z: 6.1442734e-10}
+      rotation: {x: 0.03172791, y: 0.0007211461, z: 0.017375587, w: 0.99934524}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: EMILY-Zeigefinger.R.000
+      parentName: EMILY-Unterarm.R
+      position: {x: -1.3038516e-10, y: 0.0024191795, z: -0.000000001042008}
+      rotation: {x: -0.030322306, y: -0.030053735, z: -0.036310036, w: 0.9984282}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: EMILY-Zeigefinger.R.001
+      parentName: EMILY-Zeigefinger.R.000
+      position: {x: -3.0068154e-10, y: 0.0009561185, z: -9.2899427e-10}
+      rotation: {x: -0.01406717, y: 0.012707986, z: 0.13940762, w: 0.9900536}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: EMILY-Zeigefinger.R.002
+      parentName: EMILY-Zeigefinger.R.001
+      position: {x: -2.8587637e-11, y: 0.0002662106, z: 0.0000000010116491}
+      rotation: {x: -0.03833768, y: -0.00039710154, z: -0.010349904, w: 0.9992112}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Zeigefinger.R.003
+      parentName: EMILY-Zeigefinger.R.002
+      position: {x: -2.865684e-11, y: 0.00024394093, z: 9.21919e-12}
+      rotation: {x: -0.034032222, y: -0.00086888485, z: 0.025509395, w: 0.9990948}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: EMILY-Huefte.L
+      parentName: EMILY-Becken
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.66851646, y: -0.22058445, z: -0.6304042, w: -0.3271375}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: EMILY-Oberschenkel.L
+      parentName: EMILY-Huefte.L
+      position: {x: 6.519258e-11, y: 0.0017230915, z: 6.50034e-10}
+      rotation: {x: -0.37064922, y: -0.022311646, z: 0.08363362, w: 0.92473066}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: EMILY-Schienbein.L
+      parentName: EMILY-Oberschenkel.L
+      position: {x: -2.1827873e-11, y: 0.004279219, z: 1.3435965e-10}
+      rotation: {x: 0.0556437, y: 0.0022548034, z: -0.049908996, w: 0.99719995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EMILY-Fuss.L
+      parentName: EMILY-Schienbein.L
+      position: {x: 1.6298145e-11, y: 0.0043757195, z: 1.4155375e-10}
+      rotation: {x: 0.4377328, y: -0.49119133, z: 0.3624754, w: 0.6601005}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: EMILY-Huefte.R.001
+      parentName: EMILY-Becken
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7250399, y: 0.35696858, z: -0.56448257, w: 0.16807732}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: EMILY-Oberschenkel.R.001
+      parentName: EMILY-Huefte.R.001
+      position: {x: 1.2107193e-10, y: 0.0017230918, z: -1.6763806e-10}
+      rotation: {x: 0.35359824, y: -0.11942113, z: 0.13908173, w: 0.9172585}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: EMILY-Schienbein.R
+      parentName: EMILY-Oberschenkel.R.001
+      position: {x: -1.9317667e-11, y: 0.004279219, z: -3.5979608e-11}
+      rotation: {x: -0.054987375, y: 0.011529434, z: -0.05063123, w: 0.9971359}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: EMILY-Fuss.R
+      parentName: EMILY-Schienbein.R
+      position: {x: 2.0954757e-11, y: 0.0043757195, z: 3.1432135e-11}
+      rotation: {x: -0.35655966, y: 0.66664207, z: -0.44256473, w: -0.4822759}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: FleshBottom
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Ribbon
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Skirt
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: TeethBottom
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Tongue
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Top
+      parentName: Blendswap-Belly dancer(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 0
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
